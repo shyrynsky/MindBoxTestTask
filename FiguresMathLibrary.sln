@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresMathLibrary", "FiguresMathLibrary\FiguresMathLibrary.csproj", "{3893F484-17E6-4357-9EA5-2617A26B279B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresMathLibrary.Tests", "FiguresMathLibrary.Tests\FiguresMathLibrary.Tests.csproj", "{59DE5EAE-0F1F-432D-89DC-40A3C465B691}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{3893F484-17E6-4357-9EA5-2617A26B279B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3893F484-17E6-4357-9EA5-2617A26B279B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3893F484-17E6-4357-9EA5-2617A26B279B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59DE5EAE-0F1F-432D-89DC-40A3C465B691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DE5EAE-0F1F-432D-89DC-40A3C465B691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DE5EAE-0F1F-432D-89DC-40A3C465B691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DE5EAE-0F1F-432D-89DC-40A3C465B691}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
